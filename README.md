@@ -6,4 +6,4 @@ A system that calculates Greenhouse Gas (GHG) emissions using "GHG" protocol sta
 
 # Note
 
-This Graduation Project is in processing, and i am going to upload it after its discussion.
+This Graduation Project is in processing, and i am going to push it after its discussion (18/6/2023).
