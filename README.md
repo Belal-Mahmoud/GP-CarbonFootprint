@@ -1,9 +1,5 @@
 # GP-CarbonFootprint
 
-A system that calculates Greenhouse Gas (GHG) emissions using "GHG" protocol standards for organizations. October 6th University (O6U) going to use it.
+A system that calculates Greenhouse Gasses (GHG) emissions using "GHG" protocol standards for organizations. October 6th University (O6U) is going to use it.
 
 # "Did this API alone."
-
-# Note
-
-This Graduation Project is in processing, and i am going to push it after its discussion (18/6/2023).
